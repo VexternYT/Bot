@@ -1,0 +1,5 @@
+{
+        "ip":"SkillSMP07.aternos.me"
+        "port":"53092"
+        "name":"VexternYT"
+}
